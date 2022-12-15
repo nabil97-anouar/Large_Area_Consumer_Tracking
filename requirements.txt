@@ -1,0 +1,8 @@
+numpy
+cython
+matplotlib
+scikit-learn
+opencv-python
+torch > 1.10.0
+torchvision
+openpifpaf>=0.13.0
